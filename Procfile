@@ -1,1 +1,1 @@
-web: java -jar build/libs/eazy-onboarders-git-creator-1.0.jar
+web: java -jar build/libs/java-saml-heroku-app-template-1.0.jar
