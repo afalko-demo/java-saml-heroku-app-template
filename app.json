@@ -1,0 +1,6 @@
+{
+  "name": "EazyOnboarderGithub",
+  "description": "Hackathon app that creates new projects in github",
+  "image": "heroku/gradle",
+  "addons": []
+}
